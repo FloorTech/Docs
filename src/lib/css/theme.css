@@ -3,6 +3,7 @@
 :root {
 	--background-1: #dfdfdf;
 	--foreground-1: #000000;
+	--background-2: #cfcfcf;
 	--foreground-2: #383838;
 	--foreground-theme: #ffffff;
 	--theme: #3150ff;
@@ -11,6 +12,7 @@
 @theme inline {
 	--color-background-1: var(--background-1);
 	--color-foreground-1: var(--foreground-1);
+	--color-background-2: var(--background-2);
 	--color-foreground-2: var(--foreground-2);
 	--color-foreground-theme: var(--foreground-theme);
 	--color-theme: var(--theme);
