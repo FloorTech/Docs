@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# Build output
+.build/
+.svelte-kit/
+dist/
+output/
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Local env files
+.env*
+!.env.example
+
+# Vite cache
+.vite/
+
+# VSCode settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Optional OS/system files
+Thumbs.db
