@@ -98,6 +98,7 @@ form:not(.override-typography):not(.🔒️) .form-part-desc:not(.override-typog
 }
 
 form:not(.override-typography):not(.🔒️) .form-part:not(.override-typography):not(.🔒️) input[type="text"]:not(.override-typography):not(.🔒️),
+form:not(.override-typography):not(.🔒️) .form-part:not(.override-typography):not(.🔒️) input[type="email"]:not(.override-typography):not(.🔒️),
 form:not(.override-typography):not(.🔒️) .form-part:not(.override-typography):not(.🔒️) input[type="password"]:not(.override-typography):not(.🔒️),
 form:not(.override-typography):not(.🔒️) .form-part:not(.override-typography):not(.🔒️) textarea:not(.override-typography):not(.🔒️) {
 	padding: .2rem .5rem;
