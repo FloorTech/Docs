@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/forms";
+@plugin "@tailwindcss/typography";
+
+@import "./theme.css";
+@import "./base.css";
+@import "./typography.css";
